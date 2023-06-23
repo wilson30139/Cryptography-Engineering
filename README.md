@@ -16,7 +16,7 @@
 - 透過一個stream cipher的鑰匙跟11個明文進行加密的結果，把最後一個密文還原成明文
 - Extended Euclidean Algorithm
 
-## [期中期末專案](https://github.com/wilson30139/Cryptography-Engineering/tree/main/%E6%9C%9F%E4%B8%AD%E9%A1%8C%E7%9B%AE%E5%B0%88%E6%A1%88)
+## [Proposal](https://github.com/wilson30139/Cryptography-Engineering/tree/main/Proposal)
 - Subject: ZIP/RAR password cracker
 
 ## [Final Project](https://github.com/wilson30139/Cryptography-Engineering/tree/main/Final%20Project)
