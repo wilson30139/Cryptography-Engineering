@@ -1,6 +1,6 @@
 # Cryptography-Engineering
 
-## [Quiz 1](https://github.com/wilson30139/Cryptography-Engineering/tree/main/Quiz1)
+## [Quiz 1](https://github.com/wilson30139/Cryptography-Engineering/blob/main/Quiz1/311552022.cpp)
 - 找出密文中字母的頻率
 
 ## [Quiz 2](https://github.com/wilson30139/Cryptography-Engineering/tree/main/Quiz2)
@@ -11,6 +11,7 @@
 - Determine the key length of the ciphertext using I.C.
 - Break the content of the key
 - Break the ciphertext and recover the plaintext
+- Build an elementary MD5 hash cracker to recover the hash value
 
 ## [Midterm](https://github.com/wilson30139/Cryptography-Engineering/tree/main/Midterm)
 - 透過一個stream cipher的鑰匙跟11個明文進行加密的結果，把最後一個密文還原成明文
